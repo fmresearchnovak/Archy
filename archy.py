@@ -43,6 +43,7 @@ class Window:
 
 	def die(self):
 		#print("dieing...")
+		self.drawing_on = False
 		self.gui_on = False
 
 
