@@ -39,6 +39,7 @@ class Window:
 		# Attaches the "x button in window title clicked" event
 		# to the die method which turns off my main GUI loop
 		self.root.protocol("WM_DELETE_WINDOW", self.die)
+		self.root.title("Archy")
 
 
 	def die(self):
