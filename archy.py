@@ -50,6 +50,7 @@ class Window:
 
 	def main_loop(self):
 		while(self.gui_on):
+			time.sleep(0.25)
 			self.root.update() # this should maybe be at end of loop?
 
 			if(self.drawing_on):
