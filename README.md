@@ -10,8 +10,8 @@ Click and drag to erase.
 
 **Required Software Packages**
 
-* python 3
-* tkinter  (included in python 3)
+* python 3.x
+* tkinter
 * random   (included in python 3)
 * time     (included in python 3)
 
