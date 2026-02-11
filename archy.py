@@ -2,7 +2,7 @@
 
 
 import tkinter # for the interface, duh!
-import random
+import random # because the lines have random colors
 import time
 
 class Window:
