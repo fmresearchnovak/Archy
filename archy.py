@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 
-import tkinter
+import tkinter # for the interface, duh!
 import random
 import time
 
